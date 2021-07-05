@@ -20,5 +20,6 @@ public class Computer {
                 ",hdd='" + hdd + '\'' +
                 ",resource'" + resource + '\'' +
                 '}';
+
     }
 }
